@@ -25,13 +25,13 @@ h1 {
 
 .body {
 	background-color:#939393;
-	margin:40px 10px 10px 10px;
+	margin:40px 10px -15px 10px;
 	border:1px solid black;
 }
 
 .description{
 	padding-top:-20px;
-	;
+	
 	margin:-10px 15px 6px 15px;
 }
 
