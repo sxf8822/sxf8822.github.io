@@ -70,11 +70,12 @@ h2 {
 
 .testing {
    margin-left:5px;
-  margin-right: 15px;
+  margin-right: 5px;
 }
 .menu-description {
   background-color: #939393;
-  
+  margin-left:15px;
+  margin-right:15px;
   color:#000;
 
 }
